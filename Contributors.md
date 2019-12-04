@@ -579,6 +579,7 @@
 - ars
 - Yudi Xu evec
 - Giovanni L.
+- Daniel Maldonado
 - [Daniel Abib](https://github.com/daniabib)
 - [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
